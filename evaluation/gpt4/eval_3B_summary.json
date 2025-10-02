@@ -1,0 +1,1110 @@
+{
+  "total_items": 1885,
+  "llm_judged": 759,
+  "difficulty_distribution": {
+    "easy": 377,
+    "moderate": 754,
+    "hard": 754
+  },
+  "top_disorders": {
+    "Separation Anxiety Disorder": 15,
+    "Selective Mutism": 15,
+    "Specific Phobia": 15,
+    "Social Anxiety Disorder (Social Phobia)": 15,
+    "Agoraphobia": 15,
+    "Substance/Medication-Induced Anxiety Disorder": 15,
+    "Anxiety Disorder Due to Another Medical Condition": 15,
+    "Substance/Medication-Induced Bipolar and Related Disorder": 15,
+    "Bipolar and Related Disorder Due to Another Medical Condition": 15,
+    "Premenstrual Dysphoric Disorder": 15
+  },
+  "confidence_stats": {
+    "Separation Anxiety Disorder": {
+      "mean": 0.914,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Selective Mutism": {
+      "mean": 0.913,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Specific Phobia": {
+      "mean": 0.907,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Social Anxiety Disorder (Social Phobia)": {
+      "mean": 0.904,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Agoraphobia": {
+      "mean": 0.925,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 15
+    },
+    "Substance/Medication-Induced Anxiety Disorder": {
+      "mean": 0.918,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Anxiety Disorder Due to Another Medical Condition": {
+      "mean": 0.903,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Anxiety Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Anxiety Disorder": {
+      "mean": 0.896,
+      "min": 0.83,
+      "max": 0.98,
+      "count": 5
+    },
+    "Cyclothymic Disorder": {
+      "mean": 0.916,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 10
+    },
+    "Substance/Medication-Induced Bipolar and Related Disorder": {
+      "mean": 0.906,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Bipolar and Related Disorder Due to Another Medical Condition": {
+      "mean": 0.901,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Bipolar and Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Disruptive Mood Dysregulation Disorder": {
+      "mean": 0.908,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Premenstrual Dysphoric Disorder": {
+      "mean": 0.903,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Depressive Disorder Due to Another Medical Condition": {
+      "mean": 0.887,
+      "min": 0.8,
+      "max": 0.95,
+      "count": 15
+    },
+    "Other Specified Depressive Disorder": {
+      "mean": 0.9,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Oppositional Defiant Disorder": {
+      "mean": 0.863,
+      "min": 0.75,
+      "max": 0.95,
+      "count": 15
+    },
+    "Conduct Disorder": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 15
+    },
+    "Pyromania": {
+      "mean": 0.899,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Kleptomania": {
+      "mean": 0.892,
+      "min": 0.75,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Disruptive, Impulse-Control, and Conduct Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Disruptive, Impulse-Control, and Conduct Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Dissociative Identity Disorder": {
+      "mean": 0.881,
+      "min": 0.7,
+      "max": 0.98,
+      "count": 15
+    },
+    "Dissociative Amnesia": {
+      "mean": 0.892,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Depersonalization/Derealization Disorder": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Dissociative Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Dissociative Disorder": {
+      "mean": 0.906,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 5
+    },
+    "Enuresis": {
+      "mean": 0.913,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Elimination Disorder": {
+      "mean": 0.84,
+      "min": 0.8,
+      "max": 0.9,
+      "count": 5
+    },
+    "Pica": {
+      "mean": 0.914,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Rumination Disorder": {
+      "mean": 0.911,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 15
+    },
+    "Avoidant/Restrictive Food Intake Disorder": {
+      "mean": 0.873,
+      "min": 0.8,
+      "max": 0.95,
+      "count": 15
+    },
+    "Binge-Eating Disorder": {
+      "mean": 0.916,
+      "min": 0.88,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Feeding or Eating Disorder": {
+      "mean": 0.936,
+      "min": 0.9,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Feeding or Eating Disorder": {
+      "mean": 0.896,
+      "min": 0.83,
+      "max": 0.98,
+      "count": 5
+    },
+    "Gender Dysphoria": {
+      "mean": 0.931,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Gender Dysphoria": {
+      "mean": 0.914,
+      "min": 0.88,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Gender Dysphoria": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Neuroleptic Malignant Syndrome": {
+      "mean": 0.928,
+      "min": 0.88,
+      "max": 0.98,
+      "count": 5
+    },
+    "Medication-Induced Acute Dystonia": {
+      "mean": 0.914,
+      "min": 0.88,
+      "max": 0.98,
+      "count": 5
+    },
+    "Tardive Dyskinesia": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Medication-Induced Postural Tremor": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Medication-Induced Movement Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Antidepressant Discontinuation Syndrome": {
+      "mean": 0.91,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 5
+    },
+    "Other Adverse Effect of Medication": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Neurocognitive Domains": {
+      "mean": 0.924,
+      "min": 0.89,
+      "max": 0.98,
+      "count": 5
+    },
+    "Delirium": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Delirium": {
+      "mean": 0.93,
+      "min": 0.89,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Delirium": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Major Neurocognitive Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Mild Neurocognitive Disorder": {
+      "mean": 0.901,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Major or Mild Frontotemporal Neurocognitive Disorder": {
+      "mean": 0.882,
+      "min": 0.75,
+      "max": 0.98,
+      "count": 15
+    },
+    "Major or Mild Neurocognitive Disorder With Lewy Bodies": {
+      "mean": 0.911,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Major or Mild Vascular Neurocognitive Disorder": {
+      "mean": 0.905,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Major or Mild Neurocognitive Disorder Due to HIV Infection": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 15
+    },
+    "Major or Mild Neurocognitive Disorder Due to Huntington’s Disease": {
+      "mean": 0.89,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Major or Mild Neurocognitive Disorder Due to Another Medical Condition": {
+      "mean": 0.918,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Major or Mild Neurocognitive Disorder Due to Multiple Etiologies": {
+      "mean": 0.91,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Neurocognitive Disorder": {
+      "mean": 0.91,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 5
+    },
+    "Intellectual Disability (Intellectual Developmental Disorder)": {
+      "mean": 0.899,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Global Developmental Delay": {
+      "mean": 0.934,
+      "min": 0.9,
+      "max": 0.98,
+      "count": 5
+    },
+    "Language Disorder": {
+      "mean": 0.89,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Childhood-Onset Fluency Disorder (Stuttering)": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Social (Pragmatic) Communication Disorder": {
+      "mean": 0.897,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Communication Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Specified Attention-Deficit/ Hyperactivity Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Attention-Deficit/ Hyperactivity Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Specific Learning Disorder": {
+      "mean": 0.922,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Developmental Coordination Disorder": {
+      "mean": 0.875,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Stereotypic Movement Disorder": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Tic Disorders": {
+      "mean": 0.932,
+      "min": 0.9,
+      "max": 0.98,
+      "count": 10
+    },
+    "Other Specified Tic Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Tic Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Specified Neurodevelopmental Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Body Dysmorphic Disorder": {
+      "mean": 0.925,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 15
+    },
+    "Excoriation (Skin-Picking) Disorder": {
+      "mean": 0.917,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Substance/Medication-Induced Obsessive-Compulsive and Related Disorder": {
+      "mean": 0.895,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition": {
+      "mean": 0.887,
+      "min": 0.8,
+      "max": 0.95,
+      "count": 15
+    },
+    "Unspecified Obsessive-Compulsive and Related Disorder": {
+      "mean": 0.906,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 5
+    },
+    "Problems Related to Family Upbringing": {
+      "mean": 0.91,
+      "min": 0.88,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Problems Related to Primary Support Group": {
+      "mean": 0.9,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Adult Maltreatment and Neglect Problems": {
+      "mean": 0.948,
+      "min": 0.92,
+      "max": 0.98,
+      "count": 5
+    },
+    "Educational and Occupational Problems": {
+      "mean": 0.9,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Housing and Economic Problems": {
+      "mean": 0.906,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 5
+    },
+    "Other Problems Related to the Social Environment": {
+      "mean": 0.9,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Health Service Encounters for Counseling and Medical Advice": {
+      "mean": 0.9,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Circumstances of Personal History": {
+      "mean": 0.896,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 5
+    },
+    "Other Specified Mental Disorder Due to Another Medical Condition": {
+      "mean": 0.882,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Mental Disorder Due to Another Medical Condition": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Specified Mental Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Voyeuristic Disorder": {
+      "mean": 0.916,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Exhibitionistic Disorder": {
+      "mean": 0.921,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Sexual Sadism Disorder": {
+      "mean": 0.899,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Pedophilic Disorder": {
+      "mean": 0.906,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Fetishistic Disorder": {
+      "mean": 0.895,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Transvestic Disorder": {
+      "mean": 0.913,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Paraphilic Disorder": {
+      "mean": 0.91,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Paraphilic Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "General Personality Disorder": {
+      "mean": 0.922,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 5
+    },
+    "Paranoid Personality Disorder": {
+      "mean": 0.899,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Schizotypal Personality Disorder": {
+      "mean": 0.905,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Antisocial Personality Disorder": {
+      "mean": 0.91,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Histrionic Personality Disorder": {
+      "mean": 0.898,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Avoidant Personality Disorder": {
+      "mean": 0.92,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Personality Change Due to Another Medical Condition": {
+      "mean": 0.885,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Personality Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Brief Psychotic Disorder": {
+      "mean": 0.921,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Schizophreniform Disorder": {
+      "mean": 0.893,
+      "min": 0.75,
+      "max": 0.98,
+      "count": 15
+    },
+    "Schizoaffective Disorder": {
+      "mean": 0.887,
+      "min": 0.75,
+      "max": 0.98,
+      "count": 15
+    },
+    "Substance/Medication-Induced Psychotic Disorder": {
+      "mean": 0.897,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Psychotic Disorder Due to Another Medical Condition": {
+      "mean": 0.902,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Catatonic Disorder Due to Another Medical Condition": {
+      "mean": 0.91,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Catatonia": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Other Specified Schizophrenia Spectrum and Other Psychotic Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Delayed Ejaculation": {
+      "mean": 0.89,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Erectile Disorder": {
+      "mean": 0.913,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Female Orgasmic Disorder": {
+      "mean": 0.863,
+      "min": 0.75,
+      "max": 0.95,
+      "count": 15
+    },
+    "Female Sexual Interest/Arousal Disorder": {
+      "mean": 0.897,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Genito-Pelvic Pain/Penetration Disorder": {
+      "mean": 0.892,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Premature (Early) Ejaculation": {
+      "mean": 0.911,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Substance/Medication-Induced Sexual Dysfunction": {
+      "mean": 0.909,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Sexual Dysfunction": {
+      "mean": 0.86,
+      "min": 0.8,
+      "max": 0.95,
+      "count": 5
+    },
+    "Hypersomnolence Disorder": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Obstructive Sleep Apnea Hypopnea": {
+      "mean": 0.923,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Central Sleep Apnea": {
+      "mean": 0.901,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Sleep-Related Hypoventilation": {
+      "mean": 0.928,
+      "min": 0.88,
+      "max": 0.98,
+      "count": 5
+    },
+    "Circadian Rhythm Sleep-Wake Disorder": {
+      "mean": 0.897,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 15
+    },
+    "Non–Rapid Eye Movement Sleep Arousal Disorders": {
+      "mean": 0.913,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Nightmare Disorder": {
+      "mean": 0.895,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Rapid Eye Movement Sleep Behavior Disorder": {
+      "mean": 0.895,
+      "min": 0.7,
+      "max": 0.98,
+      "count": 15
+    },
+    "Substance/Medication-Induced Sleep Disorder": {
+      "mean": 0.907,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Insomnia Disorder": {
+      "mean": 0.87,
+      "min": 0.8,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Insomnia Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other Specified Hypersomnolence Disorder": {
+      "mean": 0.91,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 5
+    },
+    "Other Specified Sleep-Wake Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Sleep-Wake Disorder": {
+      "mean": 0.888,
+      "min": 0.83,
+      "max": 0.98,
+      "count": 5
+    },
+    "Psychological Factors Affecting Other Medical Conditions": {
+      "mean": 0.902,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Factitious Disorder": {
+      "mean": 0.921,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Somatic Symptom and Related Disorder": {
+      "mean": 0.884,
+      "min": 0.85,
+      "max": 0.92,
+      "count": 5
+    },
+    "Unspecified Somatic Symptom and Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Substance Use Disorders": {
+      "mean": 0.925,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Alcohol Use Disorder": {
+      "mean": 0.901,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Alcohol Intoxication": {
+      "mean": 0.904,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Alcohol-Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Caffeine Intoxication": {
+      "mean": 0.895,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Cannabis Intoxication": {
+      "mean": 0.915,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Cannabis Withdrawal": {
+      "mean": 0.917,
+      "min": 0.88,
+      "max": 0.98,
+      "count": 10
+    },
+    "Unspecified Cannabis-Related Disorder": {
+      "mean": 0.84,
+      "min": 0.8,
+      "max": 0.9,
+      "count": 5
+    },
+    "Phencyclidine Use Disorder": {
+      "mean": 0.895,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Phencyclidine Intoxication": {
+      "mean": 0.898,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Other Hallucinogen Intoxication": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 10
+    },
+    "Hallucinogen Persisting Perception Disorder": {
+      "mean": 0.897,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Phencyclidine-Related Disorder": {
+      "mean": 0.896,
+      "min": 0.83,
+      "max": 0.98,
+      "count": 5
+    },
+    "Unspecified Hallucinogen-Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Inhalant Use Disorder": {
+      "mean": 0.91,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Inhalant Intoxication": {
+      "mean": 0.907,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Inhalant-Related Disorder": {
+      "mean": 0.84,
+      "min": 0.78,
+      "max": 0.9,
+      "count": 5
+    },
+    "Opioid Intoxication": {
+      "mean": 0.906,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Opioid Withdrawal": {
+      "mean": 0.921,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Opioid-Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Sedative, Hypnotic, or Anxiolytic Use Disorder": {
+      "mean": 0.903,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Sedative, Hypnotic, or Anxiolytic Intoxication": {
+      "mean": 0.879,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Sedative, Hypnotic, or Anxiolytic Withdrawal": {
+      "mean": 0.907,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Sedative-, Hypnotic-, or Anxiolytic-Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Stimulant Withdrawal": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Unspecified Stimulant-Related Disorder": {
+      "mean": 0.899,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Tobacco Use Disorder": {
+      "mean": 0.905,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Tobacco Withdrawal": {
+      "mean": 0.922,
+      "min": 0.87,
+      "max": 0.98,
+      "count": 15
+    },
+    "Unspecified Tobacco-Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Other (or Unknown) Substance Use Disorder": {
+      "mean": 0.907,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other (or Unknown) Substance Intoxication": {
+      "mean": 0.918,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 10
+    },
+    "Other (or Unknown) Substance Withdrawal": {
+      "mean": 0.875,
+      "min": 0.7,
+      "max": 0.98,
+      "count": 10
+    },
+    "Unspecified Other (or Unknown) Substance–Related Disorder": {
+      "mean": 0.89,
+      "min": 0.85,
+      "max": 0.95,
+      "count": 5
+    },
+    "Gambling Disorder": {
+      "mean": 0.898,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Reactive Attachment Disorder": {
+      "mean": 0.897,
+      "min": 0.85,
+      "max": 0.98,
+      "count": 15
+    },
+    "Disinhibited Social Engagement Disorder": {
+      "mean": 0.892,
+      "min": 0.8,
+      "max": 0.98,
+      "count": 15
+    },
+    "Other Specified Trauma- and Stressor-Related Disorder": {
+      "mean": 0.88,
+      "min": 0.85,
+      "max": 0.9,
+      "count": 5
+    },
+    "Unspecified Trauma- and Stressor-Related Disorder": {
+      "mean": 0.896,
+      "min": 0.83,
+      "max": 0.98,
+      "count": 5
+    }
+  },
+  "top_warnings": {
+    "very_hard_reading": 922,
+    "low_support_sim:0.51": 64,
+    "low_support_sim:0.49": 61,
+    "low_support_sim:0.52": 60,
+    "low_support_sim:0.53": 58,
+    "low_support_sim:0.50": 52,
+    "low_support_sim:0.46": 48,
+    "low_support_sim:0.47": 47,
+    "low_support_sim:0.54": 47,
+    "low_support_sim:0.48": 40
+  },
+  "distribution_violations": []
+}

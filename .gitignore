@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.log
+*.sqlite3
+*.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment/config
+.env
+
+
+# Tools and cache
+tools/
+.cache/
+.ipynb_checkpoints/
+

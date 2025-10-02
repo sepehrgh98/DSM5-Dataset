@@ -1,0 +1,34 @@
+{
+  "total_items": 2799,
+  "llm_judged": 2799,
+  "difficulty_distribution": {
+    "easy": 932,
+    "moderate": 931,
+    "hard": 932
+  },
+  "top_disorders": {
+    "Separation Anxiety Disorder": 33,
+    "Dissociative Identity Disorder": 33,
+    "Body Dysmorphic Disorder": 33,
+    "Substance Use Disorders": 33,
+    "Specific Phobia": 30,
+    "Social Anxiety Disorder (Social Phobia)": 30,
+    "Depressive Disorder Due to Another Medical Condition": 30,
+    "Conduct Disorder": 30,
+    "Dissociative Amnesia": 30,
+    "Enuresis": 30
+  },
+  "top_warnings": {
+    "very_hard_reading": 722,
+    "low_support_sim:0.53": 100,
+    "low_support_sim:0.54": 87,
+    "low_support_sim:0.50": 85,
+    "low_support_sim:0.49": 85,
+    "low_support_sim:0.47": 80,
+    "low_support_sim:0.52": 79,
+    "low_support_sim:0.48": 76,
+    "low_support_sim:0.51": 76,
+    "low_support_sim:0.45": 76
+  },
+  "distribution_violations": []
+}
