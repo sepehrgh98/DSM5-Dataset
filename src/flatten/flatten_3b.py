@@ -2,8 +2,8 @@ import json
 import uuid
 
 # Adjust input/output for each task before running
-input_path = "./outputs/train_gpt5/3B.jsonl"     
-output_path = "./outputs/train_gpt5/flat/3B_flattened.jsonl"  
+input_path = "./outputs/test_gpt5/3B.jsonl"     
+output_path = "./outputs/test_gpt5/flat/3B_flattened.jsonl"  
 
 def flatten_jsonl(input_file, output_file):
     with open(input_file, "r", encoding="utf-8") as fin, \

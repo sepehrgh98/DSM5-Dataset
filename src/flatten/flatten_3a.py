@@ -1,8 +1,8 @@
 import json
 import uuid
 
-input_path = "./outputs/train_gpt5/3A.jsonl"     # your current grouped file
-output_path = "./outputs/train_gpt5/flat/3A_flattened.jsonl"  # new flattened file
+input_path = "./outputs/test_gpt5/3A.jsonl"     # your current grouped file
+output_path = "./outputs/test_gpt5/flat/3A_flattened.jsonl"  # new flattened file
 
 def flatten_jsonl(input_file, output_file):
     with open(input_file, "r", encoding="utf-8") as fin, \
